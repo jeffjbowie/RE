@@ -1,3 +1,3 @@
 # RE
 
-A collection of malicious payloads which have been reversed for analysis, from actual Incident Response calls.
+A collection of malicious payloads from Incident Response engagements, which have been reversed for analysis.
